@@ -1,0 +1,16 @@
+# 0-installation-script
+
+# Step 1: Go to the project directory
+cd alx-intermediate-frontend
+
+# Step 2: Create a new directory for the sass task
+mkdir 0x03-sass_scss
+cd 0x03-sass_scss
+
+# Step 3: Install SASS using npm
+npm install sass@1.63.6
+
+# Note:
+# - Node.js and npm were already installed on this system.
+# - npm version 10.8.1 was verified.
+# - The sass version 1.63.6 is compatible with this setup.
